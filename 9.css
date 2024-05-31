@@ -1,0 +1,26 @@
+.test{
+    background-color: yellow;
+    margin: 10%;
+    border: 10px;
+    border-color: red;
+    border-radius: 5px;
+    width: 1000px;
+    height: 500px;
+    padding: 10px;
+}
+p.pp{
+    background-color: rgb(21, 226, 220);
+    margin: 10%;
+    border: 10px;
+    border-color: red;
+    border-radius: 5px;
+    width: 500px;
+    height: 150px;
+    padding: 10px;
+}
+h3.test{
+    font-size: large;
+    font-family: serif;
+    font-weight: 600;
+    text-decoration: wavy;
+}
